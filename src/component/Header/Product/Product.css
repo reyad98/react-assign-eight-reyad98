@@ -1,0 +1,65 @@
+.single-product{
+    margin: 10px;
+    padding-bottom: 5px;
+    background-color: #fcd8e1;
+    padding: 20px;
+    border-radius: 5px;
+    color: #1c0950;
+
+}
+.single-product:hover{
+   
+    
+}
+img{
+    height: 150px;
+    border-radius: 5px;
+    margin-left: 9px;
+}
+.buttn{
+    background-color:#f7345e;
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+}
+.buttn:hover{
+    background-color: #22c8e5;
+    transition: 0.5s;
+}
+
+.btn-pos{
+    padding-left: 40px;
+}
+.fa {
+    padding: 20px;
+    font-size: 10px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-skype{
+      background-color: #00AFF0;
+      color: white;
+  }
+  .fa-youtube{
+      background-color: #E62117;
+      color: white;
+  }
+.icons{
+    padding: 10px;
+    margin-left: 25px;
+    
+   
+}
+.gap{
+    margin-left: 5px;
+    margin-right: 5px;
+}
