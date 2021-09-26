@@ -8,13 +8,14 @@
 
 }
 .single-product:hover{
-   
-    
+
 }
 img{
     height: 150px;
     border-radius: 5px;
     margin-left: 9px;
+    
+    
 }
 .buttn{
     background-color:#f7345e;
@@ -26,7 +27,7 @@ img{
     color: white;
 }
 .buttn:hover{
-    background-color: #22c8e5;
+    background-color: #31acdd;
     transition: 0.5s;
 }
 
